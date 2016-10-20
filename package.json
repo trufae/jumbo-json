@@ -1,0 +1,19 @@
+{
+  "name": "jumbo-json",
+  "version": "0.1.0",
+  "description": "huge asynchoronous JSON parser and stringifier",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:trufae/node-jumbo-json"
+  },
+  "keywords": [
+    "json",
+    "async"
+  ],
+  "author": "Sergi Alvarez <pancake@nowsecure.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trufae/node-jumbo-json/issues"
+  },
+  "homepage": "https://github.com/trufae/node-jumbo-json"
+}
